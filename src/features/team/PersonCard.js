@@ -5,7 +5,7 @@ class PersonCard extends React.Component{
     const { name, image, major, team } = this.props;
     return(
       <div>
-      <img src={image} height={100}/>
+      <img src={image} height={100} alt="Person"/>
       <p>{name}</p>
       <p>{team}</p>
       <p>{major}</p>

@@ -7,7 +7,7 @@ class About extends React.Component{
             <div>
              <center>
                 <h1> About Chi Sun Turing Club</h1>
-                <img src={logo} class="App-logo" /> 
+                <img src={logo} class="App-logo" alt="Logo"/> 
                 <p> Chi Sun Turing Club is a technology focused student initiative at Chi Sun College of University of Hong Kong aiing to improve student life using technology.</p>
              </center>
             </div>
@@ -15,4 +15,4 @@ class About extends React.Component{
     }
 }
 
-export default About; 
+export default About;

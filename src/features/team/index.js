@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../../logo.svg';
 import data from './data.js';
 import PersonCard from './PersonCard';
 
